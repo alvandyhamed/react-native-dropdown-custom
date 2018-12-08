@@ -44,4 +44,4 @@ Add the following code in your component :
 
                 </DropdownMenu>
             </View>
-### this version has selectable https://github.com/WheelerLee/react-native-dropdown-menu
+### this version has customable style for android https://github.com/WheelerLee/react-native-dropdown-menu
